@@ -63,13 +63,13 @@ Some functions require some extra packages:
 
 .. code-block:: console
 
-   $ conda install -c conda-forge biotite
+   conda install -c conda-forge biotite
 
 ... or *pip*
 
 .. code-block:: console
 
-   $ pip install biotite
+   pip install biotite
 
 
 Usage
